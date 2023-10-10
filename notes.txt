@@ -1,0 +1,7 @@
+insert into course (id,name,author)
+values(1,'Learn Aws','Vivek Mondal'),
+(2,'Lean JAVA','Kritanta Saha'),
+(3,'Learn JavaScript','Vivek mondal');
+
+select * from course;
+delete from course ;
